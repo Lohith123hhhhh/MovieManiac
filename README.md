@@ -19,3 +19,4 @@ CSS
 API Integration (for fetching movie data)
 
 Preview
+![Image](https://github.com/user-attachments/assets/a49ab5a3-5f27-4ce1-a790-1987a9731852)
