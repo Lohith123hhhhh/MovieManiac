@@ -1,8 +1,21 @@
-# React + Vite
+🎬 Movie Maniac
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Movie Maniac is a movie recommendation web app that helps users discover and sort movies effortlessly.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Movie Sorting: Sort movies by release date or ratings in ascending or descending order.
+
+Category Navigation: Explore movies in Popular, Top Rated, and Upcoming sections via the navbar.
+
+Flexible Sorting: Sorting and order-by features are available for each category.
+
+🛠️ Technologies Used
+
+React.js
+
+CSS
+
+API Integration (for fetching movie data)
+
+Preview
